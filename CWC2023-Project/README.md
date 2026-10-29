@@ -1,5 +1,5 @@
 # Cricket World Cup 2023 Project.
-# Cricket World Cup 2023 Data Visualization
+
 
 ## Project Overview
 This project analyzes the ICC Cricket World Cup 2023 dataset using Python, Tableau, and Microsoft Power BI. It presents cricket statistics through charts, graphs, and interactive dashboards to understand team performance and match trends.
